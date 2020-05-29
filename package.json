@@ -1,0 +1,16 @@
+{
+  "name": "expo-insight-session-backend",
+  "version": "1.0.0",
+  "description": "Example socket.io express app",
+  "main": "index.js",
+  "author": "Scott Malley <scott.r.malley@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
